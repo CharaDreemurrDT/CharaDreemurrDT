@@ -3,12 +3,12 @@
 I am a newbie developer in Python.
 
 Here are my projects:
-[Simple to do List](https://github.com/CharaDreemurr6/simple-to-do-list)
+[Simple to do List](https://github.com/FriskUT/simple-to-do-list)
 
 I only have.. one project currently.
 
 ### My Github Stats
-![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=CharaDreemurr6&show_icons=true&theme=dark)
+![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FriskUT&show_icons=true&theme=dark)
 
 
 
