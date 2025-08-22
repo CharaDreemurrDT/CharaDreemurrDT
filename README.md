@@ -9,6 +9,9 @@ I only have.. one project currently.
 
 ### My Github Stats
 ![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FriskUT&show_icons=true&theme=dark)
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriskUT)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
