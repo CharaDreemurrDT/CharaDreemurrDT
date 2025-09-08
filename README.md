@@ -8,7 +8,7 @@ Here are my projects:
 I only have.. one project currently.
 
 ### My Github Stats
-![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FriskUT&show_icons=true&theme=dark)
+![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FriskUT&show_icons=true&theme=dark&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriskUT)](https://github.com/anuraghazra/github-readme-stats)
 
