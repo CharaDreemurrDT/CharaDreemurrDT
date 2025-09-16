@@ -6,11 +6,14 @@ Here are my projects:
 [Simple to do List](https://github.com/FriskUT/simple-to-do-list)
 
 I only have.. one project currently.
+<div align="center">
 
 ### My Github Stats
 ![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FriskUT&show_icons=true&theme=dark&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriskUT)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
