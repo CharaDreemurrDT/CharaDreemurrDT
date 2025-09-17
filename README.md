@@ -1,9 +1,11 @@
 <div align="center">
 
-# Welcome to my Page!
+# Welcome to my Profile!
 <img src="utry.webp">
+[Website](https://frisk.is-a.dev)
 Here are my projects:
-[Simple To Do List](https://github.com/FriskUT/simple-to-do-list)
+[Simple To-Do List](https://github.com/FriskUT/simple-to-do-list)
+
 
 I only have.. one project currently.
 
