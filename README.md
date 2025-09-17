@@ -3,15 +3,16 @@
 # Welcome to my Profile!
 <img src="utry.webp">
 
-[Website](https://frisk.is-a.dev)
+[My Website is right here!](https://frisk.is-a.dev)
 
 Here are my projects:
-[Simple To-Do List](https://github.com/FriskUT/simple-to-do-list)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FriskUT&repo=simple-to-do-list&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Github Stats
 ![Chara´s GitHub stats](https://github-readme-stats.vercel.app/api?username=FriskUT&show_icons=true&theme=dark&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriskUT)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
