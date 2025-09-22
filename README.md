@@ -3,7 +3,7 @@
 # Welcome to my Profile!
 <img src="utry.webp">
 
-[My Website is right here!](https://frisk.is-a.dev)
+[My Website is right here!](https://chara.is-a.dev)
 
 Here are my projects:
 
